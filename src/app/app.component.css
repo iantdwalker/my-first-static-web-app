@@ -1,0 +1,17 @@
+.app-component-container {
+    background-color: orange;
+}
+
+.app-component-column {
+    background-color: pink;
+}
+
+.top-selector {
+    background-color: blue;
+    height: 15%;    
+}
+
+.search-component-selector {
+    background-color: red;
+    height: 85%;    
+}
