@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Heading } from '@app/model/heading';
+import { IAltHeading } from '@app/model/altheading';
 
 @Component({
   selector: 'app-heading',
